@@ -17,3 +17,26 @@
     width:100%
     
 }
+
+.carousel-item{
+    min-height: 280px;
+}
+
+.projects{
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 150;
+    text-align: center;
+}
+.proj{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 250;
+    text-align: center;
+}
+.proj-sub{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 150;
+    text-align: center;
+}
